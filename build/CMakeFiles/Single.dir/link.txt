@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/Single.dir/single_linked_list.cpp.o -o ../Single 
